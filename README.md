@@ -35,8 +35,8 @@ data --> 图片
 version --> 123.json
 
 ###### 表结构：
+![屏幕截图 2023-08-11 174449](https://github.com/Tangcy-v/Absolute-domain/assets/102312624/fedaeb4a-567a-4006-b87f-b175909256cc)
 
-![image-20230811172720830](C:\Users\tang\AppData\Roaming\Typora\typora-user-images\image-20230811172720830.png)
 
 
 
